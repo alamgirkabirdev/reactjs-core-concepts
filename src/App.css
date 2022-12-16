@@ -36,3 +36,18 @@
     transform: rotate(360deg);
   }
 }
+.container{
+  color: red;
+  border: 3px solid rgb(230, 61, 52);
+  margin: 20px;
+  background-color: aquamarine;
+  padding: 10px;
+  border-radius: 20px;
+}
+.person{
+ border: 3px solid rebeccapurple;
+ padding: 20px;
+ margin: 10px;
+ border-radius: 20px;
+  background-color: rgb(69, 218, 66);
+}
